@@ -1,2 +1,0 @@
-# datasink
-data modeling project
